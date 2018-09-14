@@ -34,6 +34,10 @@ to prepare the training data.
 * [inspect_weights.ipynb](samples/coco/inspect_weights.ipynb)
 This notebooks inspects the weights of a trained model and looks for anomalies and odd patterns.
 
+代码整体流程图：
+![Mask R-CNN](assets/maskrcnn.jpg)
+
+
 
 # Step by Step Detection
 To help with debugging and understanding the model, there are 3 notebooks 
